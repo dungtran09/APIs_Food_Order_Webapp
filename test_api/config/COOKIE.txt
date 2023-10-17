@@ -1,0 +1,1 @@
+Authentication=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY5NzQ2NDYzMiwiZXhwIjoxNjk3NTUxMDMyfQ.aomxJ89_e4iyuFhtdLZnkcmtf33NC86QdWlfhn_Nhf8; HttpOnly; Path=/; Max-age=86400
